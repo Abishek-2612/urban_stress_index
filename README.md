@@ -145,12 +145,16 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+---
+
 ## 🌐 Live Deployment
 
 **🚀 Streamlit Community Cloud**
 
 **🔗 Live App:**  
 (Add your deployed URL here)
+
+---
 
 ## 📈 Business & Real-World Use Cases
 
@@ -160,6 +164,8 @@ streamlit run app.py
 - Sustainability Research
 - Data Analytics Portfolio Project
 
+  ---
+
 ## 🔮 Future Enhancements
 
 - Real-time pollution data integration (APIs)
@@ -167,6 +173,8 @@ streamlit run app.py
 - Supervised ML stress prediction
 - City-to-city comparison dashboards
 - Automated policy recommendations
+
+  ---
 
 ## 👤 Author
 
