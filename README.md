@@ -133,14 +133,17 @@ Predictions are generated only after user confirmation to ensure controlled eval
 ```bash
 git clone https://github.com/your-username/urban-stress-index-dashboard.git
 cd urban-stress-index-dashboard
+```
 
 ### 2️⃣ Install Dependencies
 ```bash
 pip install -r requirements.txt
+```
 
-## 3️⃣ Run the Application
+### 3️⃣ Run the Application
 ```bash
 streamlit run app.py
+```
 
 ## 🌐 Live Deployment
 
