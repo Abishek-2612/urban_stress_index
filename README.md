@@ -133,3 +133,39 @@ Predictions are generated only after user confirmation to ensure controlled eval
 ```bash
 git clone https://github.com/your-username/urban-stress-index-dashboard.git
 cd urban-stress-index-dashboard
+
+### 2️⃣ Install Dependencies
+```bash
+pip install -r requirements.txt
+
+## 3️⃣ Run the Application
+```bash
+streamlit run app.py
+
+## 🌐 Live Deployment
+
+**🚀 Streamlit Community Cloud**
+
+**🔗 Live App:**  
+(Add your deployed URL here)
+
+## 📈 Business & Real-World Use Cases
+
+- Urban Planning & Smart City Development
+- Environmental Risk Analysis
+- Public Policy Decision Support
+- Sustainability Research
+- Data Analytics Portfolio Project
+
+## 🔮 Future Enhancements
+
+- Real-time pollution data integration (APIs)
+- Time-series stress trend analysis
+- Supervised ML stress prediction
+- City-to-city comparison dashboards
+- Automated policy recommendations
+
+## 👤 Author
+
+**Abishek**  
+Data Analyst | Machine Learning Enthusiast
