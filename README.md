@@ -111,7 +111,7 @@ Predictions are generated only after user confirmation to ensure controlled eval
 
 ### 🔹 Cluster-wise Comparison Analysis
 ![Cluster Comparison](screenshots/greenspace_vs_infrastructure_cluster.png)
-![Cluster Comparison](screenshots/population_vs_pollution_cluster.png)
+![Cluster Comparison](screenshots/population_vs_pollution_clusters.png)
 
 ### 🔹 Geo-Spatial City Stress Map
 ![City Stress Map](screenshots/city_stress_map.png)
