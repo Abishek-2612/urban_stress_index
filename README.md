@@ -156,7 +156,7 @@ streamlit run app.py
 **🚀 Streamlit Community Cloud**
 
 **🔗 Live App:**  
-(Add your deployed URL here)
+(https://urbanstressindex.streamlit.app/)
 
 ---
 
